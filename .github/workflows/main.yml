@@ -16,6 +16,7 @@ jobs:
           user: welps
           template: classic
           base:
+          config_display: columns
           config_timezone: America/New_York
           plugin_anilist: true
           plugin_anilist_medias: manga
