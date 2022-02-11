@@ -16,10 +16,9 @@ jobs:
           user: welps
           template: classic
           base:
-          config_display: columns
           config_timezone: America/New_York
           plugin_anilist: true
           plugin_anilist_medias: manga
           plugin_anilist_user: welps
           plugin_anilist_sections: favorites, reading, characters
-          plugin_anilist_limit: 20
+          plugin_anilist_limit: 10
