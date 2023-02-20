@@ -1,4 +1,4 @@
-<img src="/github-metrics.svg?v=1" width=80%/>
+<img src="/github-metrics.svg?v=2" width=80%/>
 
 <!--
 **welps/welps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
